@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/saud.ahmad346@outlook.com" target="blank">
+    <a href="https://www.linkedin.com/in/saud-ahmad-286000229/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saud.ahmad346@outlook.com" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/c/@saud7122" target="blank">
+    <a href="https://www.youtube.com/channel/UCSBnun1ilmIbVvjKqeQiVBw" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saud7122" height="30" width="40" />
     </a>
 </p>
