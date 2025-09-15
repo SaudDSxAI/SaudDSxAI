@@ -15,27 +15,38 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Passionate **Data Scientist & AI Researcher** turning data into intelligent solutions.  
-- 🤖 Skilled in **Machine Learning, Deep Learning, NLP, and Computer Vision**.  
-- 🧠 Exploring the frontier of **Agentic AI, LLM-powered apps, and autonomous workflows**.  
-- 📊 Experienced in **end-to-end data science workflows** — from raw data → insights → deployed models.  
-- 🌱 Currently building **LLM-powered systems, AI dashboards, and agent-based automation**.  
-- 📢 Open to collaborations in AI, data-driven projects, and open-source contributions.  
+- 🎓 Passionate **Data Scientist & AI Engineer** building intelligent systems.  
+- 🤖 Experienced in **Machine Learning, Deep Learning, NLP, Computer Vision, and Agentic AI**.  
+- 🧠 Specialized in **LLM-powered apps, autonomous agents, and AI-driven analytics**.  
+- 📊 End-to-end expertise: from **data pipelines → insights → production-ready AI systems**.  
+- 🌱 Continuously exploring the cutting edge of **Generative AI & Multi-Agent Systems**.  
+- 📢 Open to collaborations in **AI innovation, data science, and open-source contributions**.  
 
 ---
 
 ## 🛠️ Core Skills & Tools
 <p align="center">
+  <!-- Agentic AI & LLM -->
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-F7DF1E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BERT-121212?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+  <!-- ML/DL -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BERT-121212?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+
+  <!-- Data Engineering -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-006699?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+  <!-- CV & Infra -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -44,21 +55,29 @@
 ---
 
 ## 💡 Highlight Projects
-- 🧬 **Breast Cancer Classification** – Deep learning models (Keras/TensorFlow) for medical prediction.  
-- 🚦 **Traffic Accident Analysis** – Data-driven insights into real-world datasets using pandas & ML.  
-- 🤖 **Duplicate Question Detection (BERT)** – NLP pipeline for semantic similarity.  
-- 👁️ **Access Vision** – Real-time computer vision system with face recognition.  
-- 🔗 **Agentic AI Projects** – LLM-powered autonomous agents (LangChain, LangGraph).  
-- 📊 **Retail Insight Generator** – Natural language to SQL insights using LLMs & Streamlit.  
-- 🧠 **Portfolio AI Assistant** – Conversational document/repo summarizer with LLMs.  
+### 🔥 Agentic AI & LLM Systems
+- 🔗 **Agentic AI Projects** – Autonomous multi-agent workflows with LangChain/LangGraph.  
+- 📊 **Retail Insight Generator** – LLM converts natural language → SQL queries → instant insights.  
+- 🧠 **Portfolio AI Assistant** – Conversational repo/document Q&A powered by LLMs.  
+- 🤖 **Duplicate Question Detection (BERT)** – Semantic similarity with transformer models.  
+
+### 📈 Machine Learning & Deep Learning
+- 🧬 **Breast Cancer Classification** – Neural networks for medical data classification.  
+- 💡 **Diabetes, Titanic, Telco Churn** – Classic ML/DL workflows with feature engineering & model comparison.  
+- 🚦 **Traffic Accident Analysis** – Real-world data insights using pandas & ML.  
+
+### 👁️ Computer Vision & Data Engineering
+- 👁️ **Access Vision** – Face recognition entry system with real-time logging.  
+- 🎥 **OpenCV Projects** – Image/video pipelines, transformations, contour detection.  
+- 🛠️ **Data Warehousing Project** – ETL pipeline, schema design, MySQL analytics.  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saud0346&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saud0346&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saud0346&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saud0346&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=saud0346&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saud0346&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
