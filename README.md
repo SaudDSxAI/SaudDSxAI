@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0078D4">Saud Ahmad</span></h1>
-<h3 align="center">Data Scientist | AI & ML/DL Engineer | Agentic AI Innovator</h3>
+<h1 align="center">Hi, I'm <span style="color:#0078D4">Saud Ahmad</span></h1>
+<h3 align="center">Data Scientist ▸ AI & ML/DL Engineer ▸ Agentic AI Innovator</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="700"/>
@@ -14,17 +14,17 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Passionate **Data Scientist & AI Engineer** building intelligent systems.  
-- 🤖 Experienced in **Machine Learning, Deep Learning, NLP, Computer Vision, and Agentic AI**.  
-- 🧠 Specialized in **LLM-powered apps, autonomous agents, and AI-driven analytics**.  
-- 📊 End-to-end expertise: from **data pipelines → insights → production-ready AI systems**.  
-- 🌱 Continuously exploring the cutting edge of **Generative AI & Multi-Agent Systems**.  
-- 📢 Open to collaborations in **AI innovation, data science, and open-source contributions**.  
+## ▸ About Me
+- ▹ Passionate **Data Scientist & AI Engineer** building intelligent systems.  
+- ▹ Experienced in **Machine Learning, Deep Learning, NLP, Computer Vision, and Agentic AI**.  
+- ▹ Specialized in **LLM-powered apps, autonomous agents, and AI-driven analytics**.  
+- ▹ End-to-end expertise: from **data pipelines → insights → production-ready AI systems**.  
+- ▹ Continuously exploring the cutting edge of **Generative AI & Multi-Agent Systems**.  
+- ▹ Open to collaborations in **AI innovation, data science, and open-source contributions**.  
 
 ---
 
-## 🛠️ Core Skills & Tools
+## ▸ Core Skills & Tools
 <p align="center">
   <!-- Agentic AI & LLM -->
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -54,26 +54,26 @@
 
 ---
 
-## 💡 Highlight Projects
-### 🔥 Agentic AI & LLM Systems
-- 🔗 **Agentic AI Projects** – Autonomous multi-agent workflows with LangChain/LangGraph.  
-- 📊 **Retail Insight Generator** – LLM converts natural language → SQL queries → instant insights.  
-- 🧠 **Portfolio AI Assistant** – Conversational repo/document Q&A powered by LLMs.  
-- 🤖 **Duplicate Question Detection (BERT)** – Semantic similarity with transformer models.  
+## ▸ Highlight Projects
+### ⟶ Agentic AI & LLM Systems
+- ⮞ **Agentic AI Projects** – Autonomous multi-agent workflows with LangChain/LangGraph.  
+- ⮞ **Retail Insight Generator** – LLM converts natural language → SQL queries → instant insights.  
+- ⮞ **Portfolio AI Assistant** – Conversational repo/document Q&A powered by LLMs.  
+- ⮞ **Duplicate Question Detection (BERT)** – Semantic similarity with transformer models.  
 
-### 📈 Machine Learning & Deep Learning
-- 🧬 **Breast Cancer Classification** – Neural networks for medical data classification.  
-- 💡 **Diabetes, Titanic, Telco Churn** – Classic ML/DL workflows with feature engineering & model comparison.  
-- 🚦 **Traffic Accident Analysis** – Real-world data insights using pandas & ML.  
+### ⟶ Machine Learning & Deep Learning
+- ⮞ **Breast Cancer Classification** – Neural networks for medical data classification.  
+- ⮞ **Diabetes, Titanic, Telco Churn** – Classic ML/DL workflows with feature engineering & model comparison.  
+- ⮞ **Traffic Accident Analysis** – Real-world data insights using pandas & ML.  
 
-### 👁️ Computer Vision & Data Engineering
-- 👁️ **Access Vision** – Face recognition entry system with real-time logging.  
-- 🎥 **OpenCV Projects** – Image/video pipelines, transformations, contour detection.  
-- 🛠️ **Data Warehousing Project** – ETL pipeline, schema design, MySQL analytics.  
+### ⟶ Computer Vision & Data Engineering
+- ⮞ **Access Vision** – Face recognition entry system with real-time logging.  
+- ⮞ **OpenCV Projects** – Image/video pipelines, transformations, contour detection.  
+- ⮞ **Data Warehousing Project** – ETL pipeline, schema design, MySQL analytics.  
 
 ---
 
-## 📊 GitHub Stats
+## ▸ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saud0346&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=saud0346&theme=radical" alt="GitHub Streak"/>
@@ -82,7 +82,7 @@
 
 ---
 
-## 📫 Contact Me
+## ▸ Contact Me
 
 <p align="center">
   <a href="mailto:saud.ahmad346@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-  <b>🚀 Let's connect and build the future of AI together!</b>
+  <b>▸ Let's connect and build the future of AI together!</b>
 </p>
