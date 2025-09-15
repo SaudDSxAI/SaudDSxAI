@@ -75,10 +75,11 @@
 
 ## ▸ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saud0346&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saud0346&theme=radical" alt="GitHub Streak" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saud0346&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaudDSxAI&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaudDSxAI&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaudDSxAI&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
+
 
 ---
 
