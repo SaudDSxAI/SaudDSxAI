@@ -13,21 +13,6 @@
 </p>
 
 ---
-
-## ▸ About Me
-- ▹ Passionate **Data Scientist & AI Engineer** building intelligent systems.  
-- ▹ Experienced in **Machine Learning, Deep Learning, NLP, Computer Vision, and Agentic AI**.  
-- ▹ Specialized in **LLM-powered apps, autonomous agents, and AI-driven analytics**.  
-- ▹ End-to-end expertise: from **data pipelines → insights → production-ready AI systems**.  
-- ▹ Continuously exploring the cutting edge of **Generative AI & Multi-Agent Systems**.  
-- ▹ Open to collaborations in **AI innovation, data science, and open-source contributions**.  
-
----
-
----
-
----
-
 ## ▸ 🤖 Ask My AI Assistant
 
 <p align="center">
@@ -41,10 +26,18 @@
   <b>CV ▸ Skills ▸ GitHub Projects ▸ Experience</b> in real-time.  
 </p>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRjd2t6aXZtYm42eG12dnp6ZjUydjQxZjFzNnZqM21tOXd3cm56MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XD9o33QG9BoMis7iM4/giphy.gif" alt="chatbot" width="400"/>
-</p>
 
+---
+
+## ▸ About Me
+- ▹ Passionate **Data Scientist & AI Engineer** building intelligent systems.  
+- ▹ Experienced in **Machine Learning, Deep Learning, NLP, Computer Vision, and Agentic AI**.  
+- ▹ Specialized in **LLM-powered apps, autonomous agents, and AI-driven analytics**.  
+- ▹ End-to-end expertise: from **data pipelines → insights → production-ready AI systems**.  
+- ▹ Continuously exploring the cutting edge of **Generative AI & Multi-Agent Systems**.  
+- ▹ Open to collaborations in **AI innovation, data science, and open-source contributions**.  
+
+---
 
 
 ## ▸ Core Skills & Tools
