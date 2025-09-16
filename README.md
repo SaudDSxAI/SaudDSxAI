@@ -26,17 +26,25 @@
 
 ---
 
-## ▸ Try My AI Assistant
+---
+
+## ▸ 🤖 Ask My AI Assistant
 
 <p align="center">
   <a href="https://portfolio-zaofk9heuxakkvvbfpseoh.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Launch_AI_Assistant-000000?style=for-the-badge&logo=streamlit&logoColor=white" alt="AI Assistant"/>
+    <img src="https://img.shields.io/badge/💬_Chat_with_My_AI_Assistant-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assistant"/>
   </a>
 </p>
 
 <p align="center">
-  ➤ Explore my **Portfolio AI Assistant** – an interactive chatbot that answers questions about my CV, GitHub projects, and skills in real-time.  
+  ➤ Try out my **interactive chatbot** — it answers questions about my <br>
+  <b>CV ▸ Skills ▸ GitHub Projects ▸ Experience</b> in real-time.  
 </p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRjd2t6aXZtYm42eG12dnp6ZjUydjQxZjFzNnZqM21tOXd3cm56MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XD9o33QG9BoMis7iM4/giphy.gif" alt="chatbot" width="400"/>
+</p>
+
 
 
 ## ▸ Core Skills & Tools
