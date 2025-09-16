@@ -24,6 +24,21 @@
 
 ---
 
+---
+
+## ▸ Try My AI Assistant
+
+<p align="center">
+  <a href="https://portfolio-zaofk9heuxakkvvbfpseoh.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Launch_AI_Assistant-000000?style=for-the-badge&logo=streamlit&logoColor=white" alt="AI Assistant"/>
+  </a>
+</p>
+
+<p align="center">
+  ➤ Explore my **Portfolio AI Assistant** – an interactive chatbot that answers questions about my CV, GitHub projects, and skills in real-time.  
+</p>
+
+
 ## ▸ Core Skills & Tools
 <p align="center">
   <!-- Agentic AI & LLM -->
