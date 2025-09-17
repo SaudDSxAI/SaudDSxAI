@@ -14,31 +14,31 @@
 
 ---
 
-## Ask My AI Assistant
+## ▸ 🤖 Ask My AI Assistant  
 
 <p align="center">
   <a href="https://portfolio-zaofk9heuxakkvvbfpseoh.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Chat_with_My_AI_Assistant-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assistant"/>
+    <img src="https://img.shields.io/badge/💬_Chat_with_My_AI_Assistant-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assistant"/>
   </a>
 </p>
 
 <p align="center">
-  Chat with my AI Assistant — ask about my CV, skills, projects, and experience in real time.
+  ➤ Explore my **AI Assistant** — ask about my <b>CV ▸ Skills ▸ Projects ▸ Experience</b> in real-time.
 </p>
 
 ---
 
-## About Me
-- Passionate **Data Scientist & AI Engineer** building intelligent systems.  
-- Experienced in **Machine Learning, Deep Learning, NLP, Computer Vision, and Agentic AI**.  
-- Specialized in **LLM-powered apps, autonomous agents, and AI-driven analytics**.  
-- End-to-end expertise: from **data pipelines → insights → production-ready AI systems**.  
-- Continuously exploring the cutting edge of **Generative AI & Multi-Agent Systems**.  
-- Open to collaborations in **AI innovation, data science, and open-source contributions**.  
+## ▸ About Me  
+- ▹ Passionate **Data Scientist & AI Engineer** building intelligent systems.  
+- ▹ Experienced in **Machine Learning, Deep Learning, NLP, Computer Vision, and Agentic AI**.  
+- ▹ Specialized in **LLM-powered apps, autonomous agents, and AI-driven analytics**.  
+- ▹ End-to-end expertise: from **data pipelines → insights → production-ready AI systems**.  
+- ▹ Continuously exploring the cutting edge of **Generative AI & Multi-Agent Systems**.  
+- ▹ Open to collaborations in **AI innovation, data science, and open-source contributions**.  
 
 ---
 
-## Core Skills & Tools
+## ▸ Core Skills & Tools  
 <p align="center">
   <!-- Agentic AI & LLM -->
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -68,35 +68,35 @@
 
 ---
 
-## Highlight Projects
-### Agentic AI & LLM Systems
-- **Agentic AI Projects** – Autonomous multi-agent workflows with LangChain/LangGraph.  
-- **Retail Insight Generator** – LLM converts natural language → SQL queries → instant insights.  
-- **Portfolio AI Assistant** – Conversational repo/document Q&A powered by LLMs.  
-- **Duplicate Question Detection (BERT)** – Semantic similarity with transformer models.  
+## ▸ Highlight Projects  
 
-### Machine Learning & Deep Learning
-- **Breast Cancer Classification** – Neural networks for medical data classification.  
-- **Diabetes, Titanic, Telco Churn** – Classic ML/DL workflows with feature engineering & model comparison.  
-- **Traffic Accident Analysis** – Real-world data insights using pandas & ML.  
+### ⟶ Agentic AI & LLM Systems  
+- ⮞ **Agentic AI Projects** – Autonomous multi-agent workflows with LangChain/LangGraph.  
+- ⮞ **Retail Insight Generator** – LLM converts natural language → SQL queries → instant insights.  
+- ⮞ **Portfolio AI Assistant** – Conversational repo/document Q&A powered by LLMs.  
+- ⮞ **Duplicate Question Detection (BERT)** – Semantic similarity with transformer models.  
 
-### Computer Vision & Data Engineering
-- **Access Vision** – Face recognition entry system with real-time logging.  
-- **OpenCV Projects** – Image/video pipelines, transformations, contour detection.  
-- **Data Warehousing Project** – ETL pipeline, schema design, MySQL analytics.  
+### ⟶ Machine Learning & Deep Learning  
+- ⮞ **Breast Cancer Classification** – Neural networks for medical data classification.  
+- ⮞ **Diabetes, Titanic, Telco Churn** – Classic ML/DL workflows with feature engineering & model comparison.  
+- ⮞ **Traffic Accident Analysis** – Real-world data insights using pandas & ML.  
+
+### ⟶ Computer Vision & Data Engineering  
+- ⮞ **Access Vision** – Face recognition entry system with real-time logging.  
+- ⮞ **OpenCV Projects** – Image/video pipelines, transformations, contour detection.  
+- ⮞ **Data Warehousing Project** – ETL pipeline, schema design, MySQL analytics.  
 
 ---
 
-## GitHub Stats
+## ▸ GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaudDSxAI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=SaudDSxAI&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaudDSxAI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
-## Contact Me
+## ▸ Contact Me  
 
 <p align="center">
   <a href="mailto:saud.ahmad346@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
@@ -108,5 +108,5 @@
 ---
 
 <p align="center">
-  <b>Let's connect and build the future of AI together.</b>
+  <b>▸ Let's connect and build the future of AI together!</b>
 </p>
