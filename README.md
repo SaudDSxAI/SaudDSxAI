@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="saud.jpeg" alt="My Image" height="400" style="width:auto;"/>
+  <img src="saud.jpeg" alt="My Image" height="200" style="width:auto;"/>
 </p>
 
 ---
