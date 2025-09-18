@@ -2,10 +2,10 @@
 <h1 align="center"> <span style="color:#0078D4">Saud Ahmad</span></h1>
 <h3 align="center">Data Scientist ▸ AI & ML/DL Engineer ▸ Agentic AI Innovator</h3>
 
-<p align="center">
-  <img src="saud.jpeg" alt="My Image" width="700" style="height:auto;"/>
-</p>
 
+<p align="center">
+  <img src="saud.jpeg" alt="My Image" height="400" style="width:auto;"/>
+</p>
 
 ---
 
