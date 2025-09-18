@@ -14,11 +14,11 @@
 
 ---
 
-## ▸ 🤖 Ask My AI Assistant  
+## ▸ Ask My AI Assistant  
 
 <p align="center">
   <a href="https://portfolio-zaofk9heuxakkvvbfpseoh.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/💬_Chat_with_My_AI_Assistant-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assistant"/>
+    <img src="https://img.shields.io/badge/_Chat_with_My_AI_Assistant-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assistant"/>
   </a>
 </p>
 
