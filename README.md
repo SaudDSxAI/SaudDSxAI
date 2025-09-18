@@ -1,9 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center"> <span style="color:#0078D4">Saud Ahmad</span></h1>
 
-<p align="center">
-  <img src="saud.jpeg" alt="My Image" height="200" style="width:auto; border-radius:50%;"/>
-</p>
+<p align="center"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="700"/> </p>
 
 <h3 align="center">Data Scientist ▸ AI & ML/DL Engineer ▸ Agentic AI Innovator</h3>
 
