@@ -4,8 +4,12 @@
 
 
 <p align="center">
-  <img src="saud.jpeg" alt="My Image" height="200" style="width:auto;"/>
+  <img src="saud.jpeg" 
+       alt="My Image" 
+       height="200" 
+       style="width:auto; border-radius:50%; background-color:#f0f0f0; padding:5px;"/>
 </p>
+
 
 ---
 
