@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist ▸ AI & ML/DL Engineer ▸ Agentic AI Innovator</h3>
 
 <p align="center">
-  <img src="saud.jpeg" alt="My Image" width="700"/>
+  <img src="assets/my_image.png" alt="My Image" width="700" style="height:auto;"/>
 </p>
 
 
