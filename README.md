@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm <span style="color:#0078D4">Saud Ahmad</span></h1>
+<h1 align="center"> <span style="color:#0078D4">Saud Ahmad</span></h1>
 <h3 align="center">Data Scientist ▸ AI & ML/DL Engineer ▸ Agentic AI Innovator</h3>
 
 <p align="center">
