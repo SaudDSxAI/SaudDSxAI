@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  ➤ Explore my **AI Assistant** — ask about my <b>CV ▸ Skills ▸ Projects ▸ Experience</b> in real-time.
+  ➤ Explore my AI Assistant,ask about my CV ▸ Skills ▸ Projects ▸ Experience in real-time.
 </p>
 
 ---
