@@ -1,15 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center"> <span style="color:#0078D4">Saud Ahmad</span></h1>
-<h3 align="center">Data Scientist ▸ AI & ML/DL Engineer ▸ Agentic AI Innovator</h3>
-
 
 <p align="center">
   <img src="saud.jpeg" alt="My Image" height="200" style="width:auto; border-radius:50%;"/>
 </p>
 
+<h3 align="center">Data Scientist ▸ AI & ML/DL Engineer ▸ Agentic AI Innovator</h3>
 
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saud0346&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
