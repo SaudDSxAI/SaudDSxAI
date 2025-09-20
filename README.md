@@ -1,6 +1,4 @@
-<!-- Profile Header -->
 
-## ▸ Contact Me  
 
 <p align="center">
   <a href="mailto:saud.ahmad346@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
