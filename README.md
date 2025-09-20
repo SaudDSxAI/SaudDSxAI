@@ -1,5 +1,14 @@
 <!-- Profile Header -->
 
+## ▸ Contact Me  
+
+<p align="center">
+  <a href="mailto:saud.ahmad346@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saud-ahmad-286000229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SaudDSxAI" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCSBnun1ilmIbVvjKqeQiVBw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" 
        alt="coding" 
@@ -94,16 +103,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaudDSxAI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
----
-
-## ▸ Contact Me  
-
-<p align="center">
-  <a href="mailto:saud.ahmad346@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saud-ahmad-286000229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SaudDSxAI" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCSBnun1ilmIbVvjKqeQiVBw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
 
 ---
 
